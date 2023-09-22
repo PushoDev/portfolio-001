@@ -20,7 +20,7 @@ module.exports = {
       lg: '960px',
       xl: '1200px',
     },
-    extend: {
+    extend: { 
       colors: {
         primary: '#131424',
         secondary: '#393A47',
