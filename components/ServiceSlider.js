@@ -56,10 +56,6 @@ const ServiceSlider = () => {
       slidesPerView:3,
       spaceBeteem:15
     },
-    1140: {
-      slidesPerView:6,
-      spaceBeteem:15
-    },
     
   }}
   freeMode={true}
